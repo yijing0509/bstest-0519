@@ -10971,3 +10971,40 @@ section.resume-section .resume-section-content {
   }
 }
 
+.custom-bar {
+  background-color: #7AC9FF !important;
+  border-radius: 6px !important;
+}
+
+
+.bar-ai {
+  width: 70% !important;
+}
+
+.bar-ps {
+  width: 55% !important;
+}
+
+.bar-pr {
+  width: 45% !important;
+}
+
+.bar-ae {
+  width: 40% !important;
+}
+
+.bar-procreate {
+  width: 50% !important;
+}
+
+
+.progress {
+  background-color: #e9ecef !important;
+  border-radius: 6px !important;
+}
+
+
+.skill-percentage {
+  font-weight: bold;
+  color: #495057;
+}
